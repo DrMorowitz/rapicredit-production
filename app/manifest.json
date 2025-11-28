@@ -1,0 +1,22 @@
+{
+  "name": "RapiCredit Panamá",
+  "short_name": "RapiCredit",
+  "description": "Solicita préstamos personales rápidos y seguros en Panamá con aprobación en minutos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#3446F1",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dp3gvxyft/image/upload/c_scale,w_192,h_192,f_png/v1762490150/Logo_fondo_solido-06_deoxql.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/dp3gvxyft/image/upload/c_scale,w_512,h_512,f_png/v1762490150/Logo_fondo_solido-06_deoxql.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
